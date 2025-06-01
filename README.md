@@ -20,5 +20,5 @@ Open the app, add your expenses, and get an instant breakdown with charts and st
 
 ## Author
 
-Made by [Dhubadada](www.linkedin.com/in/dhruba-chowdhury-b0b310309)
+Made by [DHRUBA](www.linkedin.com/in/dhruba-chowdhury-b0b310309)
 
