@@ -1,9 +1,6 @@
 # 💸 Expense Tracker – Home & Industry
 
 A responsive and interactive web app to manage both home and industry expenses, visualize data, and estimate savings.
-
-🔗 **Live Website:** [https://dhubadada.github.io/Expense/](https://dhubadada.github.io/Expense/)
-
 ## Features
 
 - Track home and industry expenses separately
